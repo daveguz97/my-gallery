@@ -9,6 +9,9 @@ body {
   color: #a9a9a9;
   font-weight: 600; }
 
+img {
+  width: 50%; }
+
 h1,
 h2,
 h3,
