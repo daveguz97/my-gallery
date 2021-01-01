@@ -1,0 +1,22 @@
+{
+  "name": "my-gallery",
+  "version": "1.0.0",
+  "description": "A mobile responsive webpage",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveguz97/my-gallery.git"
+  },
+  "author": "David Guzman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daveguz97/my-gallery/issues"
+  },
+  "homepage": "https://github.com/daveguz97/my-gallery#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
