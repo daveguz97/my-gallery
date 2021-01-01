@@ -10,7 +10,7 @@ body {
     font-family: $font-stack;
     font-size: 0.9rem;
     color: $text-color;
-    font-weight: 600;
+    font-weight: $font-weight;
 }
 
 h1,
@@ -44,6 +44,11 @@ h5 {
 
 h6 {
     font-size: 1.3rem;
+}
+
+.container {
+    max-width: $max-width;
+    margin: auto;
 }
 
 @import './mobile.scss';
