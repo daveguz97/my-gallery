@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.9rem;
+  color: #a9a9a9;
+  font-weight: 600; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #4e5150; }
+
+h1 {
+  font-size: 3.8rem; }
+
+h2 {
+  font-size: 3.3rem; }
+
+h3 {
+  font-size: 2.8rem; }
+
+h4 {
+  font-size: 2.3rem; }
+
+h5 {
+  font-size: 1.8rem; }
+
+h6 {
+  font-size: 1.3rem; }

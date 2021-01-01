@@ -4,7 +4,7 @@
   "description": "A mobile responsive webpage",
   "main": "index.js",
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css/"
+    "sass": "node-sass -w scss/main.scss -o dist/css/"
   },
   "repository": {
     "type": "git",
