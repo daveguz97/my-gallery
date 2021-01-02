@@ -6,6 +6,11 @@
     box-sizing: border-box;
 }
 
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
 body {
     font-family: $font-stack;
     font-size: 0.9rem;
@@ -14,7 +19,7 @@ body {
 }
 
 img {
-    width: 50%;
+    max-width: 400px;
 }
 
 h1,
