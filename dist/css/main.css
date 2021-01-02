@@ -76,7 +76,7 @@ h6 {
 .photo-gallery {
   width: 100%; }
   .photo-gallery .img-wrapper {
-    height: 100vh;
+    height: 100%;
     display: grid;
     background-size: cover;
     align-items: center;
@@ -101,3 +101,6 @@ h6 {
       grid-column: 2/2; }
     .photo-gallery .img-wrapper .bench {
       grid-column: 1/1; }
+
+.main-footer {
+  text-align: center; }

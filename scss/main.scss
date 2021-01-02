@@ -45,7 +45,7 @@
 .photo-gallery {
     width: 100%;
     .img-wrapper {
-        height: 100vh;
+        height: 100%;
         display: grid;
         background-size: cover;
         align-items: center;
@@ -79,4 +79,8 @@
             grid-column: 1/1;
         }
     }
+}
+
+.main-footer {
+    text-align: center;
 }
